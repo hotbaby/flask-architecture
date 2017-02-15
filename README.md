@@ -1,5 +1,7 @@
 # Introduction
 
+[template](flask template)
+
 # Architecture
 
 ![architecture.png](https://bytebucket.org/hotbaby/resource/raw/da7f226e5e9842ecdfaec267bd3076dbd3b448ab/flask/flask-architecture.png?token=17f06ec2498fa2e637d40361a7b9de2433ed310a)
