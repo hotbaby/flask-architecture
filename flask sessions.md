@@ -43,12 +43,12 @@ class SecureCookieSessionInterface():
 
 **Flask session module framework**    
 
-![session.png](https://bitbucket.org/repo/zp95RA/images/2819649157-session.png)
+![session.png](https://bytebucket.org/hotbaby/resource/raw/da7f226e5e9842ecdfaec267bd3076dbd3b448ab/flask/flask-session.png?token=af7615aaa8480b3cf74fa8bde4387db49328a572)
 
 ## 2.3 session Sequence diagram
 
 **Flask session data flow**
 
-![session-flow.png](https://bitbucket.org/repo/zp95RA/images/3022005732-session-flow.png)
+![session-flow.png](https://bytebucket.org/hotbaby/resource/raw/da7f226e5e9842ecdfaec267bd3076dbd3b448ab/flask/flask-session-flow.png?token=d90303052b7b77896ed0f51600d2c3c499216a56)
 
 # 4 References
