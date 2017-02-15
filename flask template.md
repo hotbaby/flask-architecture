@@ -26,6 +26,6 @@ Flask使用`Jinja2`作为模板引擎。
 
 **data flow**
 
-![template-flow.png](https://bitbucket.org/repo/zp95RA/images/2771160943-template-flow.png)
+![template-flow.png](https://bytebucket.org/hotbaby/resource/raw/da7f226e5e9842ecdfaec267bd3076dbd3b448ab/flask/flask-template-flow.png?token=4937b72f9e36d35a1d9639023730d4497a4ac475)
 
 # References
